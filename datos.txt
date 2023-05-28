@@ -1,0 +1,7 @@
+Usuario Admin
+email: user@admin.com
+password: asdasd
+
+Usuario Cliente
+email: new@user.com
+password: asdasd
